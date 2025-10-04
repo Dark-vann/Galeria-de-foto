@@ -1,24 +1,28 @@
+img {
+  width: 400px;
+  height: auto;
+}
 body {
   background-color: darkcyan;
 }
 
 h1 {
-  font-size: large;
+  font-size: 70px;
 
   color: aqua;
 }
 h2 {
-  font-size: large;
+  font-size: 70px;
   color: aqua;
 }
 h3 {
-  font-size: large;
+  font-size: 70px;
   color: aqua;
 }
-img {
-  width: 700px;
-  height: auto;
-}
+
 p {
   font-size: larger;
+}
+a {
+  font-size: 70px;
 }
